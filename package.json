@@ -2,7 +2,7 @@
   "name": "figure",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jqly2.github.io/figure",
+  "homepage": "https://figure-design.github.io/landing-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
