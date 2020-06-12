@@ -8,7 +8,7 @@
 
 .landing-slider img{
     max-width:80vw;
-    max-height:100vh;
+    max-height:100%;
     height:auto;
     width:auto;
 }
