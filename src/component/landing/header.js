@@ -19,7 +19,7 @@ export default class extends React.Component {
             <br />
             email: <a href="mailto:hello@figure.us" rel="noopener noreferrer" target="_blank">hello@figure.us</a><br />
             instagram: <a href="https://www.instagram.com/figure.office/" rel="noopener noreferrer" target="_blank">@figure.office</a><br />
-            <br />
+            –<br />
             {/* <a href="#veil">News</a><br />
             <a href="#about">About</a> */}
             <Link 

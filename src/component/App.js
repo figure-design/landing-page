@@ -5,7 +5,7 @@ import Slider from './landing/slideshow.js';
 import News from './landing/new.js'
 import About from './landing/about.js'
 import { animateScroll as scroll } from "react-scroll";
-import {FaArrowAltCircleUp} from 'react-icons/fa';
+import {MdKeyboardArrowUp as UpArrow}  from 'react-icons/md';
 export default class App extends React.Component {
 
   scrollToTop = () => {
@@ -19,7 +19,7 @@ export default class App extends React.Component {
         <Slider />
         <News />
         <About />
-        <div className="scroll"><FaArrowAltCircleUp onClick={this.scrollToTop} size={32}/></div>
+        <div className="scroll"><UpArrow onClick={this.scrollToTop} size={32}/></div>
       </div>
     )
   }

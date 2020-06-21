@@ -25,3 +25,13 @@
 .slide-out{
     opacity: 0;
 }
+
+@media only screen and (max-width: 1024px) {
+    .landing-slider{
+        margin-top: 0.1em;
+        padding: 1vh;
+    }
+    .landing-slider img{
+        max-width:90vw;
+    }
+}
